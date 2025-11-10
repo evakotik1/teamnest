@@ -12,6 +12,7 @@ export default function Home() {
 			<div className="w-[808px] h-[950px] mask-[linear-gradient(to_bottom,black_90%,transparent_100%)]">
 				<Image src={Oleg} alt="kjfb" className="w-full h-full object-cover" />
 			</div>
+
 			<QuestionSection />
 			<Footer />
 		</main>
